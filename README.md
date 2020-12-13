@@ -9,7 +9,7 @@ To run the simulations use Advection.py. However, the grid file needs to be crea
 ## Entropy
 The Shannon entropy is useful to understand over which timescales the back-tracking of plastic particles can be done, as suggested by Wichmann et al. (2019) (Link to the article : <https://iopscience.iop.org/article/10.1088/2515-7620/ab4e77/meta>).
 
-Use BS_Entropy_Shannon.py
+Use BS_Entropy_Shannon.py.
 
 ## Bayesian inference
 Use BS_Bayes.py. Beforehand, the density of particles after x-time of simulation must be calculated by using BS_Density.py.
