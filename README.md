@@ -4,6 +4,8 @@ This respiratory contains the code to back-track plastic particles from their sa
 ## Simulations
 The simulations are carried out by using the Ocean Parcels framework (version 2.0) which is fully describedin Lange and van Sebille (2017) (article: <https://arxiv.org/abs/1707.05163>) and Delandmeter and van Sebille (2019) (article: <https://dspace.library.uu.nl/handle/1874/384225>). The Ocean Parcels framework is freely available at <http://oceanparcels.org>.
 
+[S](<https://dspace.library.uu.nl/handle/1874/384225>)
+
 To run the simulations use Advection.py.
 
 ## Entropy
